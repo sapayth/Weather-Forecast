@@ -1,7 +1,7 @@
 /*
  * Sapayth Hossain
  */
-package WeatherDB;
+package WeatherForecast;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,7 +1,7 @@
 /*
  * Sapayth Hossain
  */
-package WeatherDB;
+package WeatherForecast;
 
 /*
  * @author sapaythhossain

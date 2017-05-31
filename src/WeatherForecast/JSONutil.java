@@ -2,7 +2,7 @@
  * Sapayth Hossain
  */
 
-package WeatherDB;
+package WeatherForecast;
 
 import java.io.IOException;
 import org.codehaus.jackson.map.DeserializationConfig;
